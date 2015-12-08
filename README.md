@@ -6,4 +6,12 @@
     cd resultat
     grun fichier axiome -tree
 *utilisation de l'axiome*
+
 ^D
+
+## option 
+
+###coloration syntaxique sous vim
+
+    cd ~/.vim/bundle
+    git clone https://github.com/jrozner/vim-antlr.git
