@@ -5,7 +5,7 @@
     javac resultat/fichier*.java 
     cd resultat
     grun fichier axiome -tree
-*utilisation de l'axiome*
+*ensemble d'expression*
 
 ^D
 
